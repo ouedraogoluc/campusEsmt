@@ -1,0 +1,58 @@
+<resources>
+    <string name="description">Dans le sillage de
+        la consolidation de notre positionnement
+        d\'institution d\'enseignement supérieur
+        de référence à caractère professionnel et
+        universitaire dans les Télécommunications/TIC,
+        l\'ESMT se fixe un nouveau cap pour faire face
+        aux grands bouleversements actuels de l\'écosystème,
+        annonciateurs d\'une nouvelle ère technologique,
+        celle du Numérique !
+        Généralisation de l\'usage des TIC dans toutes
+        entreprises et institutions, bouleversement du business
+        model des TIC avec la montée en puissance des services
+        et autres applications au détriment des questions d\'infrastructures,
+        prédominance des éditeurs de contenus face aux acteurs traditionnels
+        de l\'écosystème des TIC, sont les grandes tendances qui vont orienter
+        notre vision stratégique, le contenu de nos différents domaines
+        d\'activités ainsi que les modalités de délivrance de nos prestations.​
+        Ainsi l\'amélioration qualitative et quantitative de nos offres d\'enseignement
+        et de formation, l\'accompagnement des entreprises et des institutions
+        dans le renforcement dans leur capacité technique et institutionnelle
+        à travers la recherche et le conseil, sont structurées à travers une vision
+        qui repose sur quatre (4) axes stratégiques
+Création de valeurs : en consacrant l\'ESMT comme un pôle d\'innovation incontournable dans l\'écosystème du numérique,  qui se traduit par le renforcement qualitatif de nos prestations, à travers une offre de formation, de conseil et de recherche qui couvre tous les aspects techniques, technologiques et managériaux du digital. La création de valeurs passe également par la modernisation de nos approches pédagogiques, plaçant l\'apprenant au centre des enjeux de sa formation. L\'objectif dans ce sens est d\'aligner complètement nos offres sur les besoins des entreprises et des institutions. En un mot, il s\'agit d\'adapter  notre offre de formation au regard de la transformation de l\'écosystème et d\'accompagner les entreprises par la recherche et le conseil dans leur défi de transformation digitale et d\'amélioration de la qualité de service.
+Capital Humain : qui se traduit par une stratégie volontariste de renforcement des capacités de nos enseignants-chercheurs adossé sur personnel administratif fortement spécialisé et performant. Maîtrise des grandes thématiques du numérique, polyvalence et multidisciplinarité dans les volets formation, enseignement, recherche et conseil, créativité et innovation dans les méthodes et outils pédagogiques, conception et gestion de projets de recherche innovants à forte valeur ajoutée et développement d\'une double compétence, à la fois universitaire et professionnel sont les principes directeurs qui doivent guider toute la stratégie de l\'axe « capital humain » de notre institution.
+Finance : qui va combiner une stratégie d\'optimisation des ressources et une redéfinition de nouveaux modèles financement des infrastructures d\'accueil et de recherche. L\'objectif étant de sécuriser le modèle économique de l\'ESMT, qui repose essentiellement sur une autonomie financière obtenue grâce à la vente de ses prestations. Il va sans dire que la viabilité de notre modèle économique passe immanquablement par l\'exploration sans cesse de nouveaux relais de croissance, à travers une stratégie d\'offre entreprise (formation, conseil et recherche) innovante et attractive, le développement d\'un ambitieux programme consacrant une filière de cours de soir, couvrant des formations à forte ajoutée pour les entreprises, le développement sur l\'international couvrant à la fois les Etats membres et partenaires de l\'ESMT y compris Anglophones et Lusophones.
+Dialogue social : qui traduit une forte volonté d\'associer et d\'impliquer le personnel dans la vision et les axes de notre plan stratégique. Il traduit en outre notre souci de s\'inscrire dans l\'un des piliers majeurs de la Responsabilité Sociale d\'Entreprise (RSE). L\'atteinte des objectifs de ce pilier majeur de notre vision stratégique va se traduire notamment par l\'amélioration des relations et conditions de travail, le maintien d\'un climat social apaisé, la formalisation d\'un cadre d\'échanges avec le personnel, le développement d\'une intelligence collaborative autour des projets de l\'ESMT, le développement de mécanismes de dynamisation et de motivation du personnel.
+Les axes de notre vision stratégiques ci-dessus développés traduisent notre volonté de répondre aux besoins et exigences de nos clients et partenaires. En somme ils consacrent notre orientation client, avec comme maître-mot : écoute, proximité et agilité.</string>
+    <string name="app_name">Campus Esmt</string>
+    <string name="connection">Connexion</string>
+    <string name="login">Identifiant</string>
+    <string name="password">Mot de passe </string>
+    <string name="connect">se connecter</string>
+    <string name="sign_up">s\'inscrire</string>
+    <string name="under_graduate">Under Graduate</string>
+    <string name="email">esmt@gmail.sn</string>
+    <string name="presentation">Presentation</string>
+    <string name="formation">Formation</string>
+    <string name="marks">Notes</string>
+    <string name="university">Université</string>
+    <string name="help">Aide</string>
+    <string name="back">Retour</string>
+    <string name="inscription">Inscription</string>
+    <string name="first_name">Prenom</string>
+    <string name="degrees">Diplomes</string>
+    <string name="last_name">Nom</string>
+    <string name="bachelor">Bac</string>
+    <string name="master">MASTER</string>
+    <string name="save">valider</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="wait">Patientez vous svp</string>
+    <string name="error_fields">Veuillez renseigner tout les champs</string>
+    <string name="error_connection">Erreur de connexion</string>
+    <string name="error_parameters">Paramettres invalides </string>
+    <string name="error_inscription">Inscription echoués</string>
+    <string name="success_inscription">Inscription reussir</string>
+
+</resources>

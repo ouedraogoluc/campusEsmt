@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_formations">
+        <item>LPTI</item>
+        <item>LIPMEN</item>
+        <item>INGC</item>
+        <item>IGTT</item>
+        <item>MPSI</item>
+    </string-array>
+    <string-array name="tab_details">
+        <item> Maths,Java,Html,javascript,php,Developpement mobile,Developpement web,,ART,Dev Ops , Admin,sys</item>
+        <item> Management,Btnu,Economie,Math,Hml,management du projet. Chef de projet,Technicien commercial</item>
+        <item>IGTT</item>
+        <item>MPSI</item>
+    </string-array>
+</resources>
