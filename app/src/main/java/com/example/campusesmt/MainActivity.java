@@ -43,15 +43,15 @@ public class MainActivity extends AppCompatActivity {
                     String message = getString(R.string.error_fields);
                     Toast.makeText(MainActivity.this, message, Toast.LENGTH_SHORT).show();
                 }else {
-                    //Intent intent  = new Intent(MainActivity.this,HomeActivity.class);
-                    //startActivity(intent);
-                    loginServer(login,password);
+                    Intent intent  = new Intent(MainActivity.this,HomeActivity.class);
+                    startActivity(intent);
+                    //loginServer(login,password);
                 }
             }
         });
     }
     public  void  loginServer(String  login,String password){
-        String url ="http://192.168.1.17/esmt/connexion.php?login="+login+"&password="+password;
+        String url ="";
         OkHttpClient client = new  OkHttpClient();//on creer les clients
         Request request = new Request.Builder()
                 .url(url)
